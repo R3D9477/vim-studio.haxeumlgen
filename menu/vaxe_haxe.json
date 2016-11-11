@@ -1,0 +1,12 @@
+{
+	"text": "UML ►",
+	"id": "haxeumlgen",
+	"nw_id": "next",
+	"items": [
+		{ "text": "Make Image", "id": "haxeumlgen_dot" },
+		{ "text": "Make XMI-Project", "id": "haxeumlgen_xmi" },
+		{},
+		{ "text": "Back ◄", "nw_id": "back" },
+		{ "text": "Close", "nw_id": "close" }
+	]
+}

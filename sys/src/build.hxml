@@ -1,0 +1,5 @@
+-main vimStudio.haxeumlgen.VimStudioClient
+-cp Source
+-lib systools
+-lib hxTypeExt
+-neko Export/linux64/neko/bin/VimStudioClient.n
