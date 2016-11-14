@@ -6,10 +6,10 @@ import sys.FileSystem;
 import sys.io.Process;
 import systools.Dialogs;
 
-using hxTypeExt.FileSystemHelper;
+import rn.typext.hlp.FileSystemHelper;
 
 using StringTools;
-using hxTypeExt.XmlExtender;
+using rn.typext.ext.XmlExtender;
 
 class VimStudioClient {
 	static function echoRequest (request:Array<String>) : String
