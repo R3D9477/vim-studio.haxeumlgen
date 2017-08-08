@@ -2,4 +2,4 @@
 -cp Source
 -lib systools
 -lib typext
--neko Export/linux64/neko/bin/VimStudioClient.n
+-neko Export/neko/obj/VimStudioClient.n
